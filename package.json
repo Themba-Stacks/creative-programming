@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "eslint-config-airbnb": "^19.0.2",
-    "node": "^17.2.0"
+    "node": "^17.2.0",
+    "nodemon": "^2.0.15"
   },
   "husky": {
     "hooks": {
